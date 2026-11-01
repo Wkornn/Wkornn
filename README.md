@@ -1,10 +1,15 @@
-# Hi, I'm Wongsakorn 👋
+# Wongsakorn Yuchaisittikul
 
-Computer Engineering student at **KMUTT** (King Mongkut's University of Technology Thonburi), working on **machine learning for real-world data** (signals, geospatial, unlabeled) and growing into **MLOps and Data Engineering**.
+Computer Engineering student at King Mongkut's University of Technology Thonburi (KMUTT), focused on machine learning for real-world data and building toward MLOps and Data Engineering.
 
-- 🏭 **AI Intern at SCG Chemicals (SCGC)**: built an anomaly detection prototype for gas chromatography quality control, from signal processing to a pipeline integrated into the lab workflow (code is confidential)
-- 🌱 **Currently learning**: data pipelines, orchestration, model serving, CI/CD and cloud, applied to my Street Sense project
-- 🏆 AI programs and hackathons with **Mitr Phol**, **CP ALL** and **Super AI Engineer Season 5**; junior mentor at an AI hackathon
+## Experience
+
+- **AI Intern, SCG Chemicals (SCGC)**, Jun – Aug 2026. Developed an anomaly detection prototype for gas chromatography quality control, covering signal processing, model development and integration into the laboratory workflow.
+- **AI programs and hackathons** with Mitr Phol, CP ALL and Super AI Engineer Season 5. Junior mentor at an AI hackathon.
+
+## Current focus
+
+Data pipelines, orchestration, model serving, CI/CD and cloud deployment.
 
 ## Featured projects
 
@@ -13,7 +18,7 @@ Computer Engineering student at **KMUTT** (King Mongkut's University of Technolo
 | [**Street Sense Bangkok**](https://github.com/Wkornn/street-sense) | Predicts accident risk for every 100 m road segment in Bangkok from road network, traffic speed, POIs and accident history | GeoPandas, OSMnx, XGBoost, SHAP, MLflow, Streamlit |
 | [**Depth2Audio**](https://github.com/Wkornn/Depth2Audio) | Turns depth estimation into 3D spatial audio cues to help visually impaired users sense obstacles | Python, Computer Vision |
 | [**DisasterWatch**](https://github.com/SaMuii72/Urban-issue) *(team)* | Real-time global disaster map with analytics and LLM-generated impact narratives | React, FastAPI, Docker, Gemini API |
-| [**Schedio**](https://github.com/zflukz/Schedio) *(team)* | University event planner platform; I led project management and front-end development | React, TypeScript, Spring Boot, PostgreSQL, Docker |
+| [**Schedio**](https://github.com/zflukz/Schedio) *(team)* | University event planner platform; led project management and front-end development | React, TypeScript, Spring Boot, PostgreSQL, Docker |
 | [**FlyMeow**](https://github.com/RangsimanJera/FlyMeow) *(team)* | Flight reservation system with admin, airline and customer roles on a relational database | React, Express.js, MySQL |
 
 ## Tech stack
