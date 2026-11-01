@@ -5,7 +5,13 @@ Computer Engineering student at King Mongkut's University of Technology Thonburi
 ## Experience
 
 - **AI Intern, SCG Chemicals (SCGC)**, Jun – Aug 2026. Developed an anomaly detection prototype for gas chromatography quality control, covering signal processing, model development and integration into the laboratory workflow.
-- **AI programs and hackathons** with Mitr Phol, CP ALL and Super AI Engineer Season 5. Junior mentor at an AI hackathon.
+
+## Programs & hackathons
+
+- **YES Talent Camp 2025: GenAI Hackathon**, Mitr Phol Group. Final round (Top 3), AI for Water track.
+- **Creative AI Camp 2024**, CP ALL. Three-month program building an automated warehouse cycle-counting robot with business units.
+- **Super AI Engineer Season 5**. AI Engineer track, advanced to Level 2.
+- **7-11 x AI Creative AI Club Hackathon 2025**, CP ALL. Junior mentor and technical staff.
 
 ## Current focus
 
